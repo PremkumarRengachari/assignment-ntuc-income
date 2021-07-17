@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="benz_web_automate">
+    <test name="search_car">
+        <classes>
+            <class name="steps.Hooks"/>
+            <class name="steps.GitHubSteps"/>
+        </classes>
+    </test>
+</suite>
