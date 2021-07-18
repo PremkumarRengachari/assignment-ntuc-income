@@ -20,7 +20,7 @@ Step 1 : Open CommonUtil class and provide your inputs such as git hub user name
 
 Step 2 : open command prompt or terminal and point to the “assignment-ntuc-income” directory 
 
-Step 3 : Enter “mvn clean install -DskipTests” command 
+Step 3 : Enter “mvn clean install -DskipTests” command to install the dependencies
 
 Step 4 : if we need to execute Both api test and web ui test, enter "mvn test" command
 
